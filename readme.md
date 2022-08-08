@@ -7,4 +7,4 @@ This is a "simple" calendar app where the user can enter in tasks for the day by
 ![Screenshot 1](./Work-Day-Scheduler%20Capture.png)
 
 ## Deployed Link
-[Link to Deployed App](https://ajcoraci22.github.io/Homework-5/)
+[Link to Deployed App](https://ajcoraci22.github.io/HW5/)
